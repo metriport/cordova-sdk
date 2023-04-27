@@ -1,0 +1,11 @@
+{
+  "name": "@metriport/cordova-sdk",
+  "cordova_name": "MetriportConnectWidget",
+  "version": "0.0.1",
+  "description": "A library to integrate with Metriport on Cordova - including Apple Health integrations.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
